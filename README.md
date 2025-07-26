@@ -1,44 +1,67 @@
-# 👋 ¡Hola! Soy LautaroFMartinez
+# 💾 LAUTI.EXE
 
-¡Bienvenido/a a mi perfil de GitHub!  
-Aquí encontrarás proyectos, contribuciones y recursos sobre desarrollo de software, tecnología y más.
-
----
-
-## 🚀 Sobre mí
-
-- 💻 Desarrollador apasionado por aprender y crear soluciones innovadoras.
-- 🎓 Siempre explorando nuevas tecnologías y frameworks.
-- 🌱 Actualmente mejorando mis habilidades en **[tu stack favorito]**.
-- 🤝 Abierto a colaboraciones, proyectos open source y nuevas ideas.
+```
+BOOT SEQUENCE INITIALIZED...
+LOADING DEVELOPER PROFILE...
+```
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧠 DEVELOPER_PROFILE.TXT
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-<!-- Agrega o quita tecnologías según tu perfil -->
+> FULL STACK DEVELOPER | BACKEND SPECIALIST  
+> INFRASTRUCTURE · AUTOMATION · API DESIGN · DEVOPS  
 
----
-
-## 📈 Estadísticas de GitHub
-
-![LautaroFMartinez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LautaroFMartinez&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroFMartinez&layout=compact&theme=github_dark)
+Combining hands-on IT knowledge with backend engineering to deliver efficient, scalable, and self-hosted systems.  
+Focused on writing clean code, automating processes, and building tools that last.
 
 ---
 
-## 📫 Contacto
+## ⚙️ SKILLS_ACQUIRED.LOG
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/LautaroFMartinez)
-- ✉️ lautaro@email.com
-- 🌐 [Tu portafolio/página personal](https://tusitio.com)
+```
+> LANGUAGES.............. PYTHON · TYPESCRIPT · JAVASCRIPT · BASH
+> BACKEND................ NESTJS · EXPRESS · FASTAPI · FLASK
+> DATABASES.............. POSTGRESQL · MONGODB · MYSQL
+> INFRASTRUCTURE......... VPS · DOCKER · LINUX · NGINX · CI/CD
+> AUTH SYSTEMS........... JWT · OAUTH2 · RBAC
+> TOOLS.................. GIT · POSTMAN · SWAGGER · SUPERTEST
+```
 
 ---
 
-¡Gracias por visitar mi perfil!  
-✨ Siempre listo para nuevos desafíos y aprendizajes.
+## 📂 PROJECTS.EXE
+
+| Project         | Description                                                             | Tech Stack                            |
+|----------------|-------------------------------------------------------------------------|----------------------------------------|
+| `Veintitrés`    | Appointment manager with e-commerce and RBAC                            | NestJS · PostgreSQL · GraphQL · Docker |
+| `Expenses Bot`  | WhatsApp bot to log expenses with AI and generate statistics            | Python · Twilio · Notion API           |
+| `InfraMonitor`  | Self-hosted VPS monitoring & alert system                               | Python · Bash · Docker                 |
+
+---
+
+## 🚀 CURRENT_MISSION.ACTIVE
+
+```
+> DEVELOPING........ Monitoring tools for self-hosted systems
+> EXPLORING......... Kubernetes · Microservices Architecture
+> IMPROVING......... DevSecOps · Infrastructure as Code
+> STATUS............ READY FOR CHALLENGES
+```
+
+---
+
+## 👨‍💻 CONTACT.LAUNCH
+
+```bash
+> GITHUB     github.com/LautaroFMartinez
+> LINKEDIN   linkedin.com/in/lautifm
+> PORTFOLIO  https://lautifm.dev
+> EMAIL      lauti@pm.me
+```
+
+---
+
+```
+SESSION TERMINATED.
+```
