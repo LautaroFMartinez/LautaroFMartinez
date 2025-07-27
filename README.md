@@ -55,9 +55,9 @@ Focused on writing clean code, automating processes, and building tools that las
 
 ```bash
 > GITHUB     github.com/LautaroFMartinez
-> LINKEDIN   linkedin.com/in/lautifm
-> PORTFOLIO  https://lautifm.dev
-> EMAIL      lauti@pm.me
+> LINKEDIN   linkedin.com/in/lautaro-f-martinez
+> PORTFOLIO  https://lfm.com.ar
+> EMAIL      contact@lfm.com.ar
 ```
 
 ---
