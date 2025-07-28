@@ -33,10 +33,10 @@ Focused on writing clean code, automating processes, and building tools that las
 ## 📂 PROJECTS.EXE
 
 | Project         | Description                                                             | Tech Stack                            |
-|----------------|-------------------------------------------------------------------------|----------------------------------------|
-| `Veintitrés`    | Appointment manager with e-commerce and RBAC                            | NestJS · PostgreSQL · GraphQL · Docker |
-| `Expenses Bot`  | WhatsApp bot to log expenses with AI and generate statistics            | Python · Twilio · Notion API           |
-| `InfraMonitor`  | Self-hosted VPS monitoring & alert system                               | Python · Bash · Docker                 |
+|----------------|--------------------------------------------------------------------------|----------------------------------------|
+| `Veintitrés`    | (In Progress) Appointment manager with e-commerce and RBAC              | NestJS · PostgreSQL · GraphQL · Docker |
+| `EcommerceApi`  | Ecommerce API for Module 4 of the SoyHenry Bootcamp                     | NestJS · PostgreSQL · RESTs API · CRUD |
+| `ToDo-Api`      | ToDo API with user auth and task management using NestJS and PostgreSQL | NestJS · JWT · CRUD · ROLE ACCESS      |
 
 ---
 
